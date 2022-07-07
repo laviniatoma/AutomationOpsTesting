@@ -1,6 +1,6 @@
 {
-  "name": "Test Source Control",
-  "description": "",
+  "name": "Test2",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
@@ -45,7 +45,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "25b930ed-f8a2-4f9e-ac2f-f1bdc8ce9922",
+      "uniqueId": "806f2460-d704-41df-b943-4e11a669e0e2",
       "input": [],
       "output": []
     }
