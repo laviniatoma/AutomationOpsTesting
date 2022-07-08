@@ -1,12 +1,12 @@
 {
-  "name": "Test2",
-  "description": "Blank Process",
-  "main": "Main.xaml",
+  "name": "Library Test 1",
+  "description": "",
+  "main": "NewActivity.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.11.4]",
-    "UiPath.Mail.Activities": "[1.12.2]",
-    "UiPath.System.Activities": "[21.10.2]",
-    "UiPath.UIAutomation.Activities": "[21.10.3]"
+    "UiPath.Excel.Activities": "2.11.4",
+    "UiPath.Mail.Activities": "1.12.2",
+    "UiPath.System.Activities": "21.10.2",
+    "UiPath.UIAutomation.Activities": "21.10.3"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -30,7 +30,7 @@
   },
   "designOptions": {
     "projectProfile": "Developement",
-    "outputType": "Process",
+    "outputType": "Library",
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
@@ -42,14 +42,6 @@
     "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
-  "entryPoints": [
-    {
-      "filePath": "Main.xaml",
-      "uniqueId": "806f2460-d704-41df-b943-4e11a669e0e2",
-      "input": [],
-      "output": []
-    }
-  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
